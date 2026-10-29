@@ -5,7 +5,7 @@ variable "gcp-username" {
 
 variable "gcp-project" {
   description = "GCP project"
-  default     = "icai2025"
+  default     = "rapid-league-513107-k6"
 }
 
 variable "gcp-network" {
